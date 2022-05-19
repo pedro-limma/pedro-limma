@@ -1,7 +1,7 @@
 # Olá! <img src="./assets/631540_hero_man_saver_spider_spiderman_icon.svg" width="50"> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50px">
 
 ## Desenvolvedor Back-end
-- 👨‍💻 Atualmente trabalho na W3-AS.
+- 👨‍💻 Atualmente trabalho Stefanini Group como Analista de Desenvolvimento Jr.
 - ⚙ Me aprofundando no ecossistema .NET
 - 🕷 Fã do nosso amigo da vizinhança Spider-man
 
