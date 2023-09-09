@@ -1,8 +1,8 @@
 # Olá! <img src="./assets/631540_hero_man_saver_spider_spiderman_icon.svg" width="50"> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50px">
 
 ## Desenvolvedor Back-end
-- 👨‍💻 Atualmente trabalho CSU Digital como Software Developer.
-- ⚙ Me aprofundando no ecossistema .NET
+- 👨‍💻 Atualmente trabalho na CSU Digital como Software Developer.
+- ⚙ Me aprofundando no ecossistema .NET e no mundo da arquitetura de software
 - 🕷 Fã do nosso amigo da vizinhança Spider-man
 
 ## <img src="https://github.com/rnanc/rnanc/blob/master/assets/iconfinder_EXPAND_ICONFINDER_COLOR_TECHNOLOGY-01_3970121.svg" width="60"> Technologies
@@ -21,7 +21,7 @@
 <br/>
 
 ## Fale comigo
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/pedrolimma47821617/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/pedrolimma20/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:pedro.lima.wk@gmail.com)
 ## Status GitHub
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pedro-limma&bg_color=30,e96443,904e95&text_color=fff&count_private=false&icon_color=fff&title_color=fff&hide_border=true&hide=css,html,jupyter%20notebook)
